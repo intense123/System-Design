@@ -22,25 +22,12 @@ System design is a crucial aspect of software development, and this repository s
 I've structured my learning path to cover fundamental concepts before diving into more complex topics. The progression includes:
 
 - Basics of System Architecture
-- Memory Management
-- File Systems
-- Networking Basics
 - Multithreading and Concurrency
 - Design Patterns
 - ...
 
 Feel free to explore each section to understand my journey and grasp the concepts I've encountered.
 
-## Folder Structure
-
-- `01_basics/`: Basic concepts and foundational knowledge.
-- `02_memory_management/`: Understanding memory allocation and management.
-- `03_file_systems/`: Implementation and theory related to file systems.
-- `04_networking/`: Exploring networking basics and protocols.
-- `05_multithreading/`: Code snippets and resources on multithreading and concurrency.
-- ...
-
-Each folder contains code implementations, explanatory documents, and relevant resources related to the respective topic.
 
 ## How to Use This Repository
 
